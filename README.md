@@ -5,14 +5,14 @@
 
 
 <div align="center">
-<h2> Hi 👋 , I'm Ismail <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi 👋 , I'm Recep <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 
 :telephone_receiver: :telephone_receiver:  **_Connect with me:_**
 
-[![Github Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/recep-gemalmaz-a805a51bb/)](https://www.linkedin.com/in/ismail-gemalmaz-b7a7061a4)
-[![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://recepgemalmaz57@gmail.com)](https://ismailgemalmaz9@gmail.com)
+[![Github Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/recep-gemalmaz-a805a51bb/)](https://www.linkedin.com/in/recep-gemalmaz-a805a51bb/)
+[![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://recepgemalmaz57@gmail.com)](https://recepgemalmaz57@gmail.com)
 
 
 :information_source: :information_source: **_Languages and Tools:_**
@@ -46,7 +46,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-**IsmailGemalmaz/IsmailGemalmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RecepGemalmaz/RecepGemalmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
